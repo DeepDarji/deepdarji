@@ -50,9 +50,9 @@ ___
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/dipdarji_)
-[![Instagram](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/dipdarji_)
-[![Facebook](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/dipdarji_)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Twitter&logoColor=wh)](https://twitter.com/dipdarji_)
+[![Instagram](https://img.shields.io/badge/-Instagram-blue?&logo=Instagram&logoColor=wh)](https://twitter.com/dipdarji_)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?&logo=Facebook&logoColor=wh)](https://twitter.com/dipdarji_)
                                                                                                                                                   
  
 
