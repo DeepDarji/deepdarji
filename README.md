@@ -46,7 +46,7 @@ ___
  
  
  ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
+  <img src="https://profile-counter.glitch.me/dipdarji/count.svg" />
  
                                                                                                                                                   
  
