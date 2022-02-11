@@ -51,8 +51,8 @@ ___
 
 ---
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Twitter&logoColor=wh)](https://twitter.com/dipdarji_)
-[![Instagram](https://img.shields.io/badge/-Instagram-blue?&logo=Instagram&logoColor=wh)](https://twitter.com/dipdarji_)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?&logo=Facebook&logoColor=wh)](https://twitter.com/dipdarji_)
+[![Instagram](https://img.shields.io/badge/-Instagram-blue?&logo=Instagram&logoColor=wh)](https://www.instagram.com/dipdarji_/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?&logo=Facebook&logoColor=wh)](https://facebook.com/darjidip74)
                                                                                                                                                   
  
 
