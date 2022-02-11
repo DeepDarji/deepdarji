@@ -30,7 +30,6 @@ ___
 
  ## 🌐 Connect me -
 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/dipdarji_)
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/dipdarji)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/dipdarji)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail&logoColor=red)](mailto:dipdarji@gmail.com)
@@ -51,6 +50,9 @@ ___
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/dipdarji_)
+[![Instagram](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/dipdarji_)
+[![Facebook](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/dipdarji_)
                                                                                                                                                   
  
 
