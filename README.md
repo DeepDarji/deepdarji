@@ -36,12 +36,12 @@ ___
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/dipdarji)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail&logoColor=red)](mailto:dipdarji@gmail.com)
 [![Unity](https://img.shields.io/badge/-Unity-blue?&logo=Unity&logoColor=white)](https://learn.unity.com/u/deepdarji)
-[![Indeed](https://img.shields.io/badge/-indeed-000?&logo=Indeed&logoColor=blue)](https://my.indeed.com/p/deepd-752hgxv)
+[![Indeed](https://img.shields.io/badge/-Indeed-000?&logo=Indeed&logoColor=blue)](https://my.indeed.com/p/deepd-752hgxv)
 
 ___
 
                                                                                                                                                      
- <img align="centre" src="https://github-readme-stats.vercel.app/api?username=SinghShreyansh&show_icons=true&theme=blue-green" alt="SinghShreyansh" />
+ <img align="centre" src="https://github-readme-stats.vercel.app/api?username=dipdarji&show_icons=true&theme=blue-green" alt="DipDarji" />
  
  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=SinghShreyansh&show_icons=true&theme=blue-green" alt="SinghShreyansh" />
  
