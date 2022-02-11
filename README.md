@@ -8,7 +8,6 @@
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Youtube.
 
- [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
 ___
 
 ## 🛠 &nbsp;STATUS
