@@ -35,8 +35,8 @@ ___
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/dipdarji)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/dipdarji)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail&logoColor=red)](mailto:dipdarji@gmail.com)
-[![Unity](https://img.shields.io/badge/-Unity-c14438?&logo=Unity&logoColor=white)](https://learn.unity.com/u/deepdarji)
-[![Indeed](https://img.shields.io/badge/-indeed-c14438?&logo=Indeed&logoColor=blue)](https://my.indeed.com/p/deepd-752hgxv)
+[![Unity](https://img.shields.io/badge/-Unity-blue?&logo=Unity&logoColor=white)](https://learn.unity.com/u/deepdarji)
+[![Indeed](https://img.shields.io/badge/-indeed-000?&logo=Indeed&logoColor=blue)](https://my.indeed.com/p/deepd-752hgxv)
 
 ___
 
