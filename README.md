@@ -45,7 +45,6 @@ ___
  
  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=dipdarji&show_icons=true&theme=blue-green" alt="Dip Darji" />
  
-<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipdarji&layout=compact&hide=html&theme=blue-green" alt="Dip Darji" />
                                                                                                                                                   
  
 
