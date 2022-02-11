@@ -11,11 +11,11 @@
  [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
 ___
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;STATUS
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C#](https://img.shields.io/badge/C%23-.-green&logo=C#)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 - 🌐 &nbsp;
