@@ -44,6 +44,10 @@ ___
  
  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=dipdarji&show_icons=true&theme=blue-green" alt="Dip Darji" />
  
+ 
+ ### Profile Views :<br>
+  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
+ 
                                                                                                                                                   
  
 
