@@ -21,8 +21,11 @@ ___
 - ⚙️ &nbsp;
   ![SOURCEFORGE](https://img.shields.io/badge/-SourceForge-333333?style=flat&logo=sourceforge)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+  ![UNITY](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity&logoColor=black)
   ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ___
 
