@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Hey, I'm Dip Darji <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Hey, I'm Dip Darji <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px"></h1>
 
 >I'm *DIP* from **India** ,a 20 year old tech developer. I really enjoy learning Unity, Blender and Android Studio💻.
 
