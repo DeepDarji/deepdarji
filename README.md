@@ -1,6 +1,6 @@
-<h1 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Hey, I'm Dip Darji <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px" height="25px"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Hey, I'm Deep Darji <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px" height="25px"></h1>
 
->I'm *DIP* from **India** ,a 20 year old tech developer. I really enjoy learning Unity, Blender and Android Studio💻.
+>I'm *DEEP* from **India** ,a 20 year old tech developer. I really enjoy learning Unity, Blender and Android Studio💻.
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> Nowadays, I’m learning Android Studio and creating projects on it.
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -45,7 +45,7 @@ ___
  
  
  ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/dipdarji/count.svg" />
+  <img src="https://profile-counter.glitch.me/deep-darji/count.svg" />
  
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
