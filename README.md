@@ -30,23 +30,15 @@ ___
 
  ## 🌐 Connect me -
 
-[![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/dipdarji)
+[![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/deep-darji)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/dipdarji)
-[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail&logoColor=red)](mailto:dipdarji@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail&logoColor=red)](mailto:darjideep74@gmail.com)
 [![Unity](https://img.shields.io/badge/-Unity-blue?&logo=Unity&logoColor=white)](https://learn.unity.com/u/deepdarji)
 [![Indeed](https://img.shields.io/badge/-Indeed-000?&logo=Indeed&logoColor=blue)](https://my.indeed.com/p/deepd-752hgxv)
 
 ___
 
-                                                                                                                                                     
- <img align="centre" src="https://github-readme-stats.vercel.app/api?username=dipdarji&show_icons=true&theme=blue-green" alt="DipDarji" />
- 
- <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=dipdarji&show_icons=true&theme=blue-green" alt="Dip Darji" />
- 
- 
- ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/deep-darji/count.svg" />
- 
+                                                                                                                                                    
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
