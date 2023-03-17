@@ -122,7 +122,7 @@
     <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
   </a>
   <a href="https://www.fiverr.com/deepdarji" target="_blank">
-    <code><img  height="60" width="60" src="SVG/fiverr.svg"/></code>
+    <code><img  height="60" width="60" src="SVG/fiverrr.svg"/></code>
   </a>
   <a href="https://www.instagram.com/deepdarji_/" target="_blank">
     <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
