@@ -16,12 +16,6 @@
 <br/>
 <br/>
 
-
-<p align="center">
-  <img src="https://gpvc.arturio.dev/deep-darji" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/deep-darji?label=Followers&style=social">
-</p>
-
 #
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=deep-darji&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
