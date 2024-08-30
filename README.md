@@ -6,6 +6,7 @@
 
 <br/>
 - 🔭 C𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as **Game and App 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+<br/>
 - 🌱 L𝚎𝚊𝚛𝚗𝚒𝚗𝚐 Deep(not my name) **Game 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
 
 <br/>
