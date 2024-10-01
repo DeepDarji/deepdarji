@@ -1,112 +1,49 @@
-<h1 align="center">
-  <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨!
-  <img src="GIF/Hi.gif" width="40px" />
-</h1>
+# Hi there, I'm Deep - aka DDJ <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-- 🔭 **Game and App 𝙳𝚎𝚟𝚎𝚕𝚘𝚙er.**
-  
-<br/>
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-- 🌱 **𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖er.**
+## I'm a Software Developer
+
+- 🌱 I am currently learning more about Game and App development.
+- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/deepdarji/)
+- 😄 Pronouns: He/Him
+
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepdarji/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepdarji/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deepdarji_/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/deepdarji_/)
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/track/6RRMrws5dVKALzhTvH8GFL?si=fc0fa64b02204c6b)
+
+---
+
+<!--START_SECTION:waka-->
 
 
-#
+📊 **This Week I Spent My Time On** 
 
-<p align="center">
-  <img height="150" width="150" src="WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepdarji&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="WEBP/right.webp">
-</p>
+```text
+🕑︎ Time Zone: India Standard Time
 
-#
+💬 Programming Languages: 
+C#, C++, Java, Dart
 
-<br/>
-
-<div align="center">
-  
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂**  
-
-<br/>
-<br/>
-
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
-<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-#
-
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" width="40" src="https://i.postimg.cc/25BJTKZQ/2724643.png"></code>
-<code><img height="40" width="40" src="https://i.postimg.cc/sgK6mRxG/flutter.png"></code>
-<code><img height="40" width="40" src="https://i.postimg.cc/T1XJGkhX/unity.png"></code>
-<code><img height="40" width="40" src="https://i.postimg.cc/PrvT02Yq/Untitled-design-removebg-preview.png"></code>
-<br/>
-
-#
-</div>
-
-<h4 align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+🔥 Tools: 
+Git/Github, Unity, Android Studio, Flutter, VS Code & Visual Studio
 ```
 
-</h4>  
-  
 
-<br/>
+<!--END_SECTION:waka-->
 
-#
 
-<h1 align="center">
-  <img src="GIF/Handshake.gif" height="25px">
-  Connect With Me
-  <img src="GIF/Handshake.gif" height="25px">
-</h1>
+---
 
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/deepdarji/" target="_blank">
-    <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
-  </a>
-  <a href="https://www.fiverr.com/deepdarji" target="_blank">
-    <code><img  height="60" width="60" src="SVG/fiverrr.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/deepdarji_/" target="_blank">
-    <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
-  </a>
-  <a href="https://twitter.com/DeepDarji_" target="_blank">
-    <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
-  </a>   
-</p>
-<br/>
-<br/>
 
-#
+<img src="https://imgur.com/rilHVxA.png"/> 
 
-![footer](WEBP/footer.webp)
