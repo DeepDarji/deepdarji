@@ -4,7 +4,7 @@
 
 ## I'm a Software Engineer
 
-- 🌱 I am currently learning Game development.
+- 🌱 Currently learning Game development.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/deepdarji/)
 - 😄 Pronouns: He/Him
 
