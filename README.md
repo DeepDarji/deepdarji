@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## I'm a Software Developer
+## I'm a Software Engineer
 
-- 🌱 I am currently learning more about Game and App development.
+- 🌱 I am currently learning Game development.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/deepdarji/)
 - 😄 Pronouns: He/Him
 
