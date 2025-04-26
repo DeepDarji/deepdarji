@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="200px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 
-## 🧠 Dreamer | 🎮 Game Developer | 📱 Android Enthusiast | 🛠️ Future Architect
+## 🧠 Dreamer | 📱 Android Enthusiast | 🎮 Game Developer 
 
 ---
 
